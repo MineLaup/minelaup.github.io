@@ -1,4 +1,5 @@
 module.exports = {
+  
   locales: {
     '/': {
       lang: 'en-US',
@@ -24,6 +25,7 @@ module.exports = {
   ],
 
   themeConfig: {
+    logo: '/logo.png',
     '/': {
       sidebar: 'auto'
     },
