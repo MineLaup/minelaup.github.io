@@ -7,7 +7,7 @@ module.exports = {
     },
     '/fr/': {
       lang: 'fr-FR',
-      title: 'MineLaup Projet',
+      title: 'MineLaup Project',
       description: 'Un gestionnaire de packs de mods pour les launcher minecraft personnalisés.'
     }
   },
