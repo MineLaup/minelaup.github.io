@@ -5,6 +5,9 @@ install:
   - npm install
 script:
   - npm run build
+notifications:
+  email:
+    enabled: false
 deploy:
   provider: pages
   skip_cleanup: true
