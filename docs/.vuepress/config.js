@@ -21,5 +21,21 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#48bb78' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
-  ]
+  ],
+
+  themeConfig: {
+    '/': {
+      sidebar: 'auto'
+    },
+    sidebar: [
+      '/',
+      '/page-a',
+      ['/page-b', 'Explicit link text']
+    ],
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/guide/' },
+      { text: 'Development', link: '/development/' }
+    ]
+  }
 }
