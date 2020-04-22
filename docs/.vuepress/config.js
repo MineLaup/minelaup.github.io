@@ -29,15 +29,19 @@ module.exports = {
     '/': {
       sidebar: 'auto'
     },
-    sidebar: [
-      '/',
-      '/page-a',
-      ['/page-b', 'Explicit link text']
-    ],
+    sidebar: {
+      '/development/': [
+        '',
+        'server',
+        'client',
+        'documentation'
+      ]
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Development', link: '/development/' }
+      { text: 'Development', link: '/development/' },
+      { text: 'Github', link: 'https://github.com/MineLaup' }
     ]
   }
 }
