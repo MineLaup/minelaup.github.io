@@ -6,7 +6,7 @@ install:
 script:
   - npm run build
 deploy:
-  provider: page
+  provider: pages
   cleanup: false
   local_dir: docs/.vuepress/dist
   token: $GITHUB_TOKEN
