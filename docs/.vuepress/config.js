@@ -43,5 +43,10 @@ module.exports = {
       { text: 'Development', link: '/development/' },
       { text: 'Github', link: 'https://github.com/MineLaup' }
     ]
+  },
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-task-checkbox'))
+    }
   }
 }
