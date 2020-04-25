@@ -28,7 +28,7 @@ The font-end need to be the simplest as possible for the final user. It use the 
 ## Road Map
 
 ::: warning
-This road map can be subjet to changes.
+This road map can be subject to changes.
 :::
 
 ### Step 1: Setup project structure
@@ -50,7 +50,7 @@ This road map can be subjet to changes.
 
 ### Step 3: Database models
 - [ ] Modpack model
-- [ ] Modpack history model to story all previous version of a modpack with linked changelogs
+- [ ] Modpack history model to story all previous version of a modpack with linked changelog
 - [ ] Launchers model
 - [ ] User collaboration relation model: this model is used to list collaboration access between users
 
@@ -72,8 +72,8 @@ This road map can be subjet to changes.
 - [ ] Search list for curseforge mods
   - [ ] Show the selected mod from the output list
   - [ ] Install the selected mod
-    - [ ] Allow the user to select the prefered version
-    - [ ] Warn the user about dependancies to install
+    - [ ] Allow the user to select the preferred version
+    - [ ] Warn the user about dependencies to install
 - [ ] Mark a mod has required or optional
 - [ ] Manage the modpack version
   - [ ] Created a new release version
