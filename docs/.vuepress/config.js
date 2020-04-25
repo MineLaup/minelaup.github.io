@@ -55,7 +55,7 @@ module.exports = {
         nav: [
           { text: 'Accueil', link: '/fr/' },
           { text: 'Guide', link: '/fr/guide/' },
-          { text: 'Développement', link: '/fr/development/' },
+          { text: 'Développement', link: '/fr/developpement/' },
           { text: 'Github', link: 'https://github.com/MineLaup' }
         ],
       }
