@@ -14,6 +14,6 @@ All the project will use **Typescript** which is compatible and very similar to 
 
 The project is separated in 3 parts:
 
-* [`server`](./server): a web app which will permit modpack's creator and server's owner to manage modpacks and launchers
-* [`client`](./client): a Node.JS library which permit to download modpacks since the configuration downloaded from the server
-* [`documentation`](./documentation): this is this website which will need to be maintened to stay updated and translated in multiple languages.
+* [`server`](./server): a web app which will permit modpacks's creator and server's owner to manage modpacks and launchers
+* [`client`](./client): a NodeJS library which permit to download modpacks since the configuration downloaded from the server
+* [`documentation`](./documentation): this is this website which will need to be maintained to stay updated and translated in multiple languages.

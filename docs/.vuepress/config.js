@@ -29,20 +29,37 @@ module.exports = {
     '/': {
       sidebar: 'auto'
     },
-    sidebar: {
-      '/development/': [
-        '',
-        'server',
-        'client',
-        'documentation'
-      ]
-    },
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Development', link: '/development/' },
-      { text: 'Github', link: 'https://github.com/MineLaup' }
-    ]
+
+    locales: {
+      '/': {
+        selectedText: 'Languages',
+        label: 'English',
+        sidebar: {
+          '/development/': [
+            '',
+            'server',
+            'client',
+            'documentation'
+          ]
+        },
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'Guide', link: '/guide/' },
+          { text: 'Development', link: '/development/' },
+          { text: 'Github', link: 'https://github.com/MineLaup' }
+        ],
+      },
+      '/fr/': {
+        selectedText: 'Langues',
+        label: 'Français',
+        nav: [
+          { text: 'Accueil', link: '/fr/' },
+          { text: 'Guide', link: '/fr/guide/' },
+          { text: 'Développement', link: '/fr/developpement/' },
+          { text: 'Github', link: 'https://github.com/MineLaup' }
+        ],
+      }
+    }
   },
   markdown: {
     extendMarkdown: md => {
