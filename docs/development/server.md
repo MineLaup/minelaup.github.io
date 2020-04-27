@@ -32,12 +32,12 @@ This road map can be subject to changes.
 :::
 
 ### Step 1: Setup project structure
-- [ ] Init NuxtJS project
-- [ ] ESLint+Prettier & Stylelint configuration
-- [ ] Install Typescript runtime
-- [ ] Setup Back-End with express based on MVC model
-- [ ] Setup unit tests
-- [ ] Setup travis configuration for unit tests and production build
+- [x] Init NuxtJS project
+- [x] ESLint+Prettier & Stylelint configuration
+- [x] Install Typescript runtime
+- [x] Setup Back-End with express based on MVC model
+- [x] Setup unit tests
+- [x] Setup travis configuration for unit tests and production build
 
 ### Step 2: Setup installation page
 - [ ] Installation page on front-end site
