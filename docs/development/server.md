@@ -61,6 +61,7 @@ This road map can be subject to changes.
 - [ ] Delete an user
 - [ ] Change an user password
 - [ ] Auth-guard middleware for back-end
+- [ ] Setup dark/light mode
 
 ### Step 5: Modpack management
 - [ ] Create a modpack with the latest release as default version
