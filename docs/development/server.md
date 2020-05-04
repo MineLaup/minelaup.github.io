@@ -40,13 +40,13 @@ This road map can be subject to changes.
 - [x] Setup travis configuration for unit tests and production build
 
 ### Step 2: Setup installation page
-- [ ] Installation page on front-end site
-- [ ] Back-end:
-  - [ ] Routes for installation
-  - [ ] User model
-  - [ ] Setup database
-  - [ ] Setup express router
-  - [ ] Create system admin
+- [x] Installation page on front-end site
+- [x] Back-end:
+  - [x] Routes for installation
+  - [x] User model
+  - [x] Setup database
+  - [x] Setup express router
+  - [x] Create system admin
 
 ### Step 3: Database models
 - [ ] Modpack model
@@ -68,6 +68,7 @@ This road map can be subject to changes.
 - [ ] Delete a modpack
 - [ ] Configure a modpack
   - [ ] Set the minecraft version
+  - [ ] Allow custom client (mcp, optifine, ...)
   - [ ] Set the forge version
   - [ ] Set the modpack logo
 - [ ] Search list for curseforge mods
