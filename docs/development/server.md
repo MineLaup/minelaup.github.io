@@ -49,10 +49,10 @@ This road map can be subject to changes.
   - [x] Create system admin
 
 ### Step 3: Database models
-- [ ] Modpack model
-- [ ] Modpack history model to story all previous version of a modpack with linked changelog
-- [ ] Launchers model
-- [ ] User collaboration relation model: this model is used to list collaboration access between users
+- [x] Modpack model
+- [x] Modpack history model to story all previous version of a modpack with linked changelog
+- [x] Launchers model
+- [x] User collaboration relation model: this model is used to list collaboration access between users
 
 ### Step 4: User management
 - [ ] Create an user
