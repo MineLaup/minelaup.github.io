@@ -55,6 +55,7 @@ This road map can be subject to changes.
 - [x] User collaboration relation model: this model is used to list collaboration access between users
 
 ### Step 4: User management
+- [ ] Login page
 - [ ] Create an user
 - [ ] List users on an admin panel
 - [ ] Update an user
