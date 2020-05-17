@@ -55,14 +55,14 @@ This road map can be subject to changes.
 - [x] User collaboration relation model: this model is used to list collaboration access between users
 
 ### Step 4: User management
-- [ ] Login page
-- [ ] Create an user
-- [ ] List users on an admin panel
-- [ ] Update an user
-- [ ] Delete an user
-- [ ] Change an user password
-- [ ] Auth-guard middleware for back-end
-- [ ] Setup dark/light mode
+- [x] Login page
+- [x] Create an user
+- [x] List users on an admin panel
+- [x] Update an user
+- [x] Delete an user
+- [x] Change an user password
+- [x] Auth-guard middleware for back-end
+- [x] Setup dark/light mode
 
 ### Step 5: Modpack management
 - [ ] Create a modpack with the latest release as default version
