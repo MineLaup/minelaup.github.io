@@ -52,6 +52,14 @@ module.exports = {
       '/fr/': {
         selectedText: 'Langues',
         label: 'Français',
+        sidebar: {
+          '/developpement/': [
+            '',
+            'serveur',
+            'client',
+            'documentation'
+          ]
+        },
         nav: [
           { text: 'Accueil', link: '/fr/' },
           { text: 'Guide', link: '/fr/guide/' },
