@@ -28,7 +28,7 @@ Le front-end à doit être la plus simple possible pour l'utilisateur final. Il 
 ## Structure de projet
 
 ::: Attention
-La structure du projet peut être soumit à certains changements.
+La structure du projet peut être soumise à certains changements.
 :::
 
 ### Etape 1: Installer la structure du projet

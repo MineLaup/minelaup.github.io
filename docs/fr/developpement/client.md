@@ -11,7 +11,7 @@ La partie "client" utilise le language Typescript.
 ## Structure de projet
 
 ::: Attention
-La structure du projet peut être soumit à certains changements.
+La structure du projet peut être soumise à certains changements.
 :::
 
 ### Première étape : Créer le projet

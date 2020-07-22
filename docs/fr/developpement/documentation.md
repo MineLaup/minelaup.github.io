@@ -13,7 +13,6 @@ Le site Web a un support d'internationalisation, donc si vous voulez avoir les d
 ### Les étapes pour créer une traduction
 
 La structure du prjet est la suivante : 
-The project structure is the following:
 
 ```
 - docs      <-- le fichier de documentation actuel
