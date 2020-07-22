@@ -10,7 +10,7 @@ La partie "client" utilise le language Typescript.
 
 ## Structure de projet
 
-::: Attention
+::: warning
 La structure du projet peut être soumise à certains changements.
 :::
 
@@ -18,15 +18,15 @@ La structure du projet peut être soumise à certains changements.
 - [ ] Installer le module npm.
 - [ ] Configurations des modules ESLint et Prettier
 - [ ] Installer Typescript.
-- [ ] Tests de l’unité de configuration
+- [ ] Configuration des tests unitaires
 - [ ] Configuration de travis pour les tests unitaires et la production
 
 ### Etape 2 : La configuration de base
-- [ ] Classe principale de la bibliothèque
-- [ ] Obtenir les informations du launcher depuis l'API avec le token
+- [ ] Classe principale de la library
+- [ ] Obtenir les informations sur le launcher depuis l'API avec le token
 
 ### Etape 3: Le modpack
-- [ ] Obtenir la list des modpacks disponibles
+- [ ] Obtenir la liste des modpacks disponibles
 - [ ] Obtenir les informations des modpacks (la version, le nom, la description, l'image)
 - [ ] Obtenir la liste des mods du modpack (les mods requis et les mods optionels)
 
@@ -39,9 +39,9 @@ La structure du projet peut être soumise à certains changements.
 - [ ] Télécharger et installer Minecraft Forge
 
 ### Etape 5 : Lancer le jeu
-- [ ] Identifier le joueur
-  - [ ] Identifier avec l'API officielle ce Mojang
-  - [ ] Identifier comme compte hors ligne
-  - [ ] Identifier avec un service d’authentification personalisé
+- [ ] Authentifier le joueur
+  - [ ] Authentifier avec l'API officielle ce Mojang
+  - [ ] Authentifier comme compte hors ligne
+  - [ ] Authentifier avec un service d’authentification personalisé
 - [ ] Fournir une option pour personnaliser la mémoire dédiée au jeu
 - [ ] Lancer Minecraft

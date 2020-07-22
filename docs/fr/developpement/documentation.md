@@ -16,13 +16,13 @@ La structure du prjet est la suivante :
 
 ```
 - docs      <-- le fichier de documentation actuel
-  - .vuepress     <-- Le ficher VuePress
+  - .vuepress     <-- Le dossier VuePress
     - config.js   <--| Le ficher de configuration où est le projet
                      | la configuration et quelque autres documentations
-  - developpement     <--| La page par défaut que site web
+  - developpement     <--| Les pages par défaut du site
   - guide           <--| 
   - README.md       <--|
-  - fr      <-- Le fichier de la traduction Française
-    - Des autres fichiers basés sur la structure principale
+  - fr      <-- Le dossier de la traduction Française
+    - Des autres dossiers basés sur la structure principale
   - ...
 ```
