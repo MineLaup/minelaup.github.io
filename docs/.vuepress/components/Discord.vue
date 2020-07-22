@@ -1,7 +1,7 @@
 <template>
   <div id="discord-widget">
     <p id="invite-text">Join us on discord:</p>
-    <iframe src="https://discordapp.com/widget?id=702177043093389353&theme=light" width="350" height="300" allowtransparency="true" frameborder="0"></iframe>
+    <iframe src="https://discordapp.com/widget?id=702177043093389353&theme=dark" width="350" height="300" allowtransparency="true" frameborder="0"></iframe>
   </div>
 </template>
 
