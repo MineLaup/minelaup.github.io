@@ -53,9 +53,9 @@ module.exports = {
         selectedText: 'Langues',
         label: 'Français',
         sidebar: {
-          '/developpement/': [
+          '/fr/development/': [
             '',
-            'serveur',
+            'server',
             'client',
             'documentation'
           ]
@@ -63,7 +63,7 @@ module.exports = {
         nav: [
           { text: 'Accueil', link: '/fr/' },
           { text: 'Guide', link: '/fr/guide/' },
-          { text: 'Développement', link: '/fr/developpement/' },
+          { text: 'Développement', link: '/fr/development/' },
           { text: 'Github', link: 'https://github.com/MineLaup' }
         ],
       }
