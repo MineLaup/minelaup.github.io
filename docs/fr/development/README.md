@@ -4,7 +4,7 @@ title: Développement
 
 # Développement
 
-Cette partie est pour les développeurs. Si vous coulez aider au projet, vous pouvez rejoindre ce serveur discord [ici](https://discord.gg/dS2Wxyr).
+Cette partie est pour les développeurs. Si vous voulez aider au projet, vous pouvez rejoindre ce serveur discord [ici](https://discord.gg/dS2Wxyr).
 
 ## Langages(s)
 
